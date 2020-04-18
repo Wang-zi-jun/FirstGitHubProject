@@ -1,6 +1,6 @@
 package com.fengqing.bean;
 
-import java.util.Data; //实体类所需类导包
+import java.util.Data; //实体类所需类导包(做一些修改)
 
 public class Student {
     //属性层
